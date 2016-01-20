@@ -1,7 +1,7 @@
 # READ THE README ------ THAT'S WHY IT'S CALLED A "README"
 
 ## OVERVIEW
-
+## URL = https://assesment-joshsilverstein.herokuapp.com/posts
 __You have 3 hours to complete this assessment__
 
 Your mission is to work through each of the included test suites one at a time. If you successfully pass each test, you should have full CRUD routes and database functionality for `Posts` and their nested resource `Comments`.
