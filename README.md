@@ -44,7 +44,7 @@ Work through tests one at a time by removing the `x` from the next `xit`. Each t
 
 ### Knex Migrations
 
-__POSTS SCHEMA__
+__POSTS SCHEMA__       
 
 ```
 id
