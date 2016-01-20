@@ -16,7 +16,7 @@ describe('Post Comments CRUD Routes', function() {
     assert.equal(migrations.length, 2);
     })
   })
-  xit('should GET ALL comments for a post on /posts/:post_id/comments', function (done) {
+  it('should GET ALL comments for a post on /posts/:post_id/comments', function (done) {
     chai.request(server)
     .get('/posts').end(function (err, res) {
       var thePost=res.body.SUCCESS[1];
